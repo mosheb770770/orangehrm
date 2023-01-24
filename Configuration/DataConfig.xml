@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <Urlweb>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</Urlweb>
+    <LoginUser>Admin</LoginUser>
+    <LoginPass>admin123</LoginPass>
+    <LoginPassError>admin1234</LoginPassError>
+    <BrowserType>chrome</BrowserType>
+    <Timeouts>10</Timeouts>
+</Environment>
